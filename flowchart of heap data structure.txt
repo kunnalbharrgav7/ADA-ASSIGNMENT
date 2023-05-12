@@ -1,0 +1,21 @@
+# Create a flowchart for a heap data structure and use it to sort an array of integers
+
+start
+|
+v
+Create an empty heap
+|
+v
+Insert all the elements of the array into the heap
+|
+v
+Create an empty sorted array
+|
+v
+While the heap is not empty do:
+|   1. Remove the minimum element from the heap
+|   2. Add the minimum element to the sorted array
+|
+v
+Return the sorted array
+end
